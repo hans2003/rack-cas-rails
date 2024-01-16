@@ -19,4 +19,5 @@ Gem::Specification.new do |spec|
   spec.homepage    = "https://github.com/bitaxis/rack-cas-rails.git"
   spec.license     = "MIT"
 
+  spec.add_runtime_dependency "rack-cas", "~> 0.15"
 end
